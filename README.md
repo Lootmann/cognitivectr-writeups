@@ -1,6 +1,7 @@
 # CTF
 
-https://web.cognitivectf.com
+- https://web.cognitivectf.com
+- https://ksnctf.sweetduet.info/
 
 ## Forensic
 
