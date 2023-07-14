@@ -1,0 +1,2 @@
+run:
+	node ./script.js
