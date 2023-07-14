@@ -1,0 +1,6 @@
+1. /robots.txt
+  User-agent: *
+  Disallow: /60e3d433.html
+
+2. /60e3d433.html
+CognitiveCTF{ca1cu1at1ng_Mach1n3s_ade8c8b4}
