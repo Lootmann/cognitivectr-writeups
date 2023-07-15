@@ -1,0 +1,5 @@
+1. open pcap with wireshark
+2. filter 'http'
+3. Authorization: Basic cTg6RkxBR181dXg3eksyTktTSDhmU0dB
+4. Base64 encode, and ans is
+q8:FLAG_5ux7zK2NKSH8fSGA 
