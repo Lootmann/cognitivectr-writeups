@@ -2,3 +2,5 @@
 *.png
 *.pcap
 *.java
+*.out
+*.exe
